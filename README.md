@@ -12,7 +12,7 @@ $ ./create.sh network-stack network.yml network-parameters.json
 2- Run The servers stack, and wait untill it's done
 ```
 $ ./create.sh servers-stack servers.yml server-parameters.json
-
+```
 ## Screenshots
 ![Network Stack Created](images/network-stack.png)
 ![Server Stack Created](images/servers-stack.png)
